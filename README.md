@@ -1,7 +1,7 @@
 # Create Your Own Binance Token
 <br>
 Network Name: Binance Smart Chain<br>
-New RPC URL: https://bsc-dataseed1.binance.org/<br>
+RPC URL: https://bsc-dataseed1.binance.org/<br>
 Chain ID: 56<br>
 Symbol: BNB<br>
 Block Explorer URL: https://bscscan.com/<br>

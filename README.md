@@ -5,7 +5,7 @@ New RPC URL: https://bsc-dataseed1.binance.org/<br>
 Chain ID: 56<br>
 Symbol: BNB<br>
 Block Explorer URL: https://bscscan.com/<br>
-
+<br>
 
 Create YourOwn Binance Token on binance chain.
 <br>

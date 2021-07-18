@@ -1,6 +1,6 @@
 # CreateYourOwnBinanceToken
 Create YourOwn Binance Token on binance chain.
-
-1.Install Chrome.
-2.Inastll Metamask.
-3.Send some BNB to metamask account.
+<br>
+1.Install Chrome.<br>
+2.Inastll Metamask.<br>
+3.Send some BNB to metamask account.<br>
